@@ -16,7 +16,7 @@ Before successfully runing this code, you may need to fill in your personal conf
 ## Setup AWS resources
 
 ``` bash
-aws sts get-session-tokenen
+aws sts get-session-token
 cd terraform
 terraform init # for the first time
 terraform apply
